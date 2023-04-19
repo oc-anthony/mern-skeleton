@@ -1,0 +1,9 @@
+{
+  "name": "mern-skeleton",
+  "version": "1.0.0",
+  "description": "A stand-alone mern app",
+  "main": "index.js",
+  "repository": "https://github.com/oc-anthony/mern-skeleton",
+  "author": "oc-anthony <oc.anthony.ii@gmail.com>",
+  "license": "MIT"
+}
