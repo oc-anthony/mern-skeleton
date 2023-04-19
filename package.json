@@ -6,10 +6,14 @@
   "repository": "https://github.com/oc-anthony/mern-skeleton",
   "author": "oc-anthony <oc.anthony.ii@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "development": "nodemon"
+  },
   "devDependencies": {
     "@babel/core": "^7.21.4",
     "@babel/preset-env": "^7.21.4",
     "babel-loader": "^9.1.2",
+    "nodemon": "^2.0.22",
     "webpack": "^5.79.0",
     "webpack-cli": "^5.0.1",
     "webpack-node-externals": "^3.0.0"
