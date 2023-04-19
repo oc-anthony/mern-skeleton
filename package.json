@@ -5,5 +5,10 @@
   "main": "index.js",
   "repository": "https://github.com/oc-anthony/mern-skeleton",
   "author": "oc-anthony <oc.anthony.ii@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.21.4",
+    "@babel/preset-env": "^7.21.4",
+    "babel-loader": "^9.1.2"
+  }
 }
